@@ -8,3 +8,4 @@ load_dotenv()
 # LINE Bot 設定
 LINE_CHANNEL_SECRET = os.environ.get("LINE_CHANNEL_SECRET")
 LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN")
+IMGBB_KEY = os.environ.get("IMGBB_KEY")
